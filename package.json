@@ -1,0 +1,25 @@
+{
+  "name": "reactpractice",
+  "version": "1.0.0",
+  "description": "learning react",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameershaik4141/ReactPractice.git"
+  },
+  "author": "sameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameershaik4141/ReactPractice/issues"
+  },
+  "homepage": "https://github.com/sameershaik4141/ReactPractice#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
